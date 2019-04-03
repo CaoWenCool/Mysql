@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5d107523-c60b-40ff-af7d-8ebe042d5204" name="Default" comment="" />
+    <list default="true" id="5d107523-c60b-40ff-af7d-8ebe042d5204" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/B+Tree插入节点.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/B+tree(2).jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/B+tree.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/B+tree插入节点（1）.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/B+tree插入节点（2）.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/B+tree插入节点（3）.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/MSYQL查询过程.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/MYSQL查询成本.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/mysql逻辑架构图.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/平衡二叉树.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/平衡二叉树插入过程.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/索引组织数据存储.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node/mysql优化方法.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/mysql-lock/target/" />
@@ -24,7 +40,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="乐观锁与悲观锁.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="乐观锁与悲观锁.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/node/乐观锁与悲观锁.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -34,6 +50,47 @@
               </first_editor>
               <second_editor />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mysql优化方法.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/node/mysql优化方法.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="780">
+                <caret line="393" column="36" lean-forward="true" selection-start-line="393" selection-start-column="36" selection-end-line="393" selection-end-column="36" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="B+Tree插入节点.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/image/B+Tree插入节点.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="B+tree.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/image/B+tree.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="B+tree插入节点（1）.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/image/B+tree插入节点（1）.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MSYQL查询过程.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/image/MSYQL查询过程.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
@@ -59,6 +116,9 @@
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
@@ -70,6 +130,7 @@
         <option value="$PROJECT_DIR$/mysql-lock/database/database.sql" />
         <option value="$PROJECT_DIR$/mysql-lock/pom.xml" />
         <option value="$PROJECT_DIR$/node/乐观锁与悲观锁.md" />
+        <option value="$PROJECT_DIR$/node/mysql优化方法.md" />
       </list>
     </option>
   </component>
@@ -135,6 +196,7 @@
       </profile-state>
     </entry>
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -160,20 +222,12 @@
             <path>
               <item name="mysql" type="b2602c69:ProjectViewProjectNode" />
               <item name="mysql" type="462c0819:PsiDirectoryNode" />
-              <item name="mysql-lock" type="462c0819:PsiDirectoryNode" />
+              <item name="image" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mysql" type="b2602c69:ProjectViewProjectNode" />
               <item name="mysql" type="462c0819:PsiDirectoryNode" />
-              <item name="mysql-lock" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mysql" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mysql" type="462c0819:PsiDirectoryNode" />
-              <item name="mysql-lock" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="node" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mysql" type="b2602c69:ProjectViewProjectNode" />
@@ -199,6 +253,11 @@
     <property name="nodejs_interpreter_path" value="C:/software/node/node" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\Project\mysql\image" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -303,6 +362,9 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="5d107523-c60b-40ff-af7d-8ebe042d5204" name="Default" comment="" />
@@ -310,16 +372,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1554166324382</updated>
-      <workItem from="1554166328832" duration="3874000" />
+      <workItem from="1554166328832" duration="33010000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3874000" />
+    <option name="totallyTimeSpent" value="33010000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1072" y="-8" width="2576" height="1406" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -328,13 +389,13 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10731319" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10731319" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -407,6 +468,37 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="2719">
             <caret line="195" column="0" lean-forward="true" selection-start-line="195" selection-start-column="0" selection-end-line="195" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image/MSYQL查询过程.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image/B+Tree插入节点.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image/B+tree.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image/B+tree插入节点（1）.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node/mysql优化方法.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="780">
+            <caret line="393" column="36" lean-forward="true" selection-start-line="393" selection-start-column="36" selection-end-line="393" selection-end-column="36" />
             <folding />
           </first_editor>
           <second_editor />
